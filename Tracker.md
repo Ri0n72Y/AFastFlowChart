@@ -1,0 +1,24 @@
+# Tracker
+
+ - [x] Basic node css
+ - [ ] Node
+ - - [x] Rect 
+ - - [x] Round Rect
+ - - [x] Parallelogorism
+ - - [x] Diamond
+ - - [x] Select
+ - - [ ] Edit
+ - - [ ] Drag
+ - - [ ] Custom Style
+ - - [ ] Markdown Support
+ - [ ] Link
+ - - [ ] Style
+ - - [ ] Custom Arrow
+ - - [ ] Custom CSS
+ - [ ] Shotcut
+ - - [x] Enter = Create when select
+ - - [ ] Space = Edit Node
+ - - [ ] Delete = Remove node
+ - - [ ] Arrow = Move focus around nodes
+ - [ ] UX
+ - - [ ] to be added  
